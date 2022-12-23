@@ -1,3 +1,4 @@
+### My Profile
 <h3 align="center">
   Welcome to Gevano Randhi Pilko profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -35,4 +36,12 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/gcoderf?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/gcoderf?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/gcoderf?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+</p>
+
+### My Statistic
+<p align="center">
+<a href="https://github.com/gcoderf">
+<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gcoderf&layout=compact&langs_count=8&theme=buefy"/>
+<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gcoderf&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+</a>
 </p>
